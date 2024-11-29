@@ -1,6 +1,6 @@
 # 🚀 Epic Shooter Game
 
-## Overview
+## Introduction 
 A browser-based shooting game where you defend against incoming enemy spacecraft. Dodge enemy fire, shoot them down, and survive as long as possible!
 
 ## 🎮 Game Controls
@@ -18,10 +18,10 @@ A browser-based shooting game where you defend against incoming enemy spacecraft
 ## 🌟 Game Mechanics
 
 ### Player
-- Green rectangular spacecraft
+- Green rectangular box
 - Can move horizontally
 - Shoots bullets upward
-- Has a health system (starts at 100)
+- Also has a health system (starts at 100)
 
 ### Enemies
 - Red rectangular enemies
