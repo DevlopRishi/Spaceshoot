@@ -1,4 +1,4 @@
-# 🚀 Epic Shooter Game
+# 🚀 Non Epic Shooter Game
 
 ## Introduction 
 A browser-based shooting game where you defend against incoming enemy spacecraft. Dodge enemy fire, shoot them down, and survive as long as possible!
